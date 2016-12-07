@@ -1,6 +1,10 @@
 ## intro
 [html-packer](https://github.com/Rozbo/html-packer.git) 's gulp support
 
+## Install
+```shell
+npm install gulp-html-packer
+```
 
 
 ## UseIt
