@@ -1,0 +1,29 @@
+{
+  "name": "gulp-html-packer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rozbo/gulp-html-packer.git"
+  },
+  "keywords": [
+    "html-packer",
+    "inline-html",
+    "gulp"
+  ],
+  "dependencies": {
+    "gulp-util": "~3.0.6",
+    "html-packer": "~0.2.1",
+    "through2": "~2.0.0"
+  },
+  "author": "rozbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rozbo/gulp-html-packer/issues"
+  },
+  "homepage": "https://github.com/Rozbo/gulp-html-packer#readme"
+}
